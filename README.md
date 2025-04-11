@@ -1,1 +1,1 @@
-<img href="terminal.png"/>
+<img src="terminal.png"/>
